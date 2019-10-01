@@ -1,0 +1,6 @@
+/.idea
+/config/*
+!/config/index.html
+!/config/gitconfig_disk.php
+/data/*
+!/data/index.html
